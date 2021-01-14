@@ -34,7 +34,7 @@
             android:name=".ui.ImportWalletActivity"
             android:label="@string/title_import"
             android:windowSoftInputMode="stateAlwaysVisible|adjustResize" />
-
+ 
         <activity
             android:name=".ui.TransactionsActivity"
             android:label="@string/title_import" />
